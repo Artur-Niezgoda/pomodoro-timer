@@ -1,7 +1,7 @@
 # pomodoro-timer
 This program is a timer build using Tkinter that helps to follow 
 Pomodoro Technique. The pomodoro timer counts down alternately two periods, work time of 25 minutes and short break time of 5 
-minutes. After 3 work periods, the short break is substituted with a long 20-minute break.
+minutes. After 3 work periods (symbolised by 3 small tomatoes under the big one), the short break is substituted with a long 20-minute break.
 The timer starts after clicking "Start" button and it resets after the long break ends or the user clicks the "Reset" button. 
 
 For more information about Pomodoro Technique please read below.
